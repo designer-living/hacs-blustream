@@ -1,1 +1,1 @@
-pyblustream==0.20
+pyblustream==0.21
